@@ -30,18 +30,15 @@ Boone, NC, USA
 Jacksonville, NC, USA
 
 ### Projects
-**Little Creek Hydrographic Survey**
-This project involved bathymetric elevations collected along planned survey lines using single beam sonar (SBS) and a Digital Elevation Model (DEM) of the survey area in Bridge Creek, Virginia. I was the lead hydrographer, navigating and collecting survey data. Data was collected, downloaded, and cleaned. Then sent back to the office for map development and full report.
+**Little Creek Hydrographic Survey**<br><sup>This project involved bathymetric elevations collected along planned survey lines using single beam sonar (SBS) and a Digital Elevation Model (DEM) of the survey area in Bridge Creek, Virginia. I was the lead hydrographer, navigating and collecting survey data. Data was collected, downloaded, and cleaned. Then sent back to the office for map development and full report.</sup>
 
-**Nags Head Geophysical Survey**
-This Phase II survey included side-scan sonar (SSS), marine magnetometer (MAG), and sub-bottom profiling (SBP) geophysical survey acquisition. This project entails a full survey report and geophysical assessment of the data acquired.
+**Nags Head Geophysical Survey**<br><sup>This Phase II survey included side-scan sonar (SSS), marine magnetometer (MAG), and sub-bottom profiling (SBP) geophysical survey acquisition. This project entails a full survey report and geophysical assessment of the data acquired.(/sup>)
 
-**Masonboro Inlet Jetty System Hydrographic Survey**
-This survey included a high-resolution geophysical survey using multibeam echosounder (MBES) for surveying the sub-aqueous portions of the North and South Jetties.
+**Masonboro Inlet Jetty System Hydrographic Survey**<br><sup>This survey included a high-resolution geophysical survey using multibeam echosounder (MBES) for surveying the sub-aqueous portions of the North and South Jetties.</sup>
 
 
 
-### Skills
+### Skills<br><sup>
 •   GIS
 •   Field Work
 •	Sampling
@@ -52,7 +49,7 @@ This survey included a high-resolution geophysical survey using multibeam echoso
 •	Hydrographic Survey
 •	Geophysical Survey
 •	Adobe Illustrator and Photoshop 
-•	Microsoft Word, PowerPoint, and Excel
+•	Microsoft Word, PowerPoint, and Excel</sup>
 
 ### Volunteer Work
 **The Surfrider Foundation** - *Bogue Banks Chapter*
