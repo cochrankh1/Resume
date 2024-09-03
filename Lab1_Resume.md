@@ -14,6 +14,7 @@ Highly skilled and motivated professional with a strong background in conservati
 **Water Conservation - Intern**
 
 *City of Bend 2023 - 2024*
+
 Providing assistance with water conservation efforts that include irrigation system evaluations, water use analysis, creation/editing of maps and data using GIS.
 
 **Hydrographic Survey Technician**
@@ -26,13 +27,12 @@ Assisting with field data collection in various marine and terrestrial environme
 ### Education
 **BS Geology 2020**
 
-*Appalachian State University*
-Boone, NC, USA
+*Appalachian State University, Boone, NC, USA*
 
 **AS Science 2018**
 
-*Coastal Carolina Community College*
-Jacksonville, NC, USA
+*Coastal Carolina Community College, Jacksonville, NC, USA*
+
 
 ### Projects
 **Little Creek Hydrographic Survey**
@@ -46,6 +46,7 @@ This Phase II survey included side-scan sonar (SSS), marine magnetometer (MAG), 
 **Masonboro Inlet Jetty System Hydrographic Survey**
 
 This survey included a high-resolution geophysical survey using multibeam echosounder (MBES) for surveying the sub-aqueous portions of the North and South Jetties.
+
 
 ### Skills
 •   GIS
@@ -69,6 +70,7 @@ This survey included a high-resolution geophysical survey using multibeam echoso
 •	Adobe Illustrator and Photoshop 
 
 •	Microsoft Word, PowerPoint, and Excel
+
 
 ### Volunteer Work
 **The Surfrider Foundation** - *Bogue Banks Chapter*
