@@ -3,7 +3,7 @@
 **Graduate Student** 
 Appalachian State University, Boone, NC, USA
 
-<img src="img/IMG_1302.jpg" width="300" />
+<img src="img/IMG_1302.jpg">
 
 ### Summary
 Highly skilled and motivated professional with a strong background in conservation and geoscience, equipped with a wealth of experience in research methodologies and report preparation. 
