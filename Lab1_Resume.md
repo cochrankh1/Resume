@@ -5,7 +5,7 @@
 <img src="img/IMG_1302.jpg">
 
 ## Summary
-Highly skilled and motivated professional with a strong background in conservation and geoscience, equipped with a wealth of experience in research methodologies and report preparation. 
+Highly skilled and motivated individual with a strong background in conservation and geoscience, equipped with a wealth of experience in research methodologies and report preparation. Currently enrolled in a graduate certificate program at Appalachian State University to recieve a GIS certificate. 
 
 [LinkedIn](https://www.linkedin.com/in/killian-cochran/)
 
