@@ -1,12 +1,10 @@
 # Killian Cochran
 
+
 **Graduate Student** 
 *Appalachian State University*
 
-<img src="/img/IMG_3280.jpg">
-
-
-
+<img src="img/IMG_3280.jpg">
 
 ### Summary
 Highly skilled and motivated professional with a strong background in conservation and geoscience, equipped with a wealth of experience in research methodologies and report preparation. [LinkedIn](https://www.linkedin.com/in/killian-cochran/)
