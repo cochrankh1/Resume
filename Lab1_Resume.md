@@ -75,4 +75,4 @@ This survey included a high-resolution geophysical survey using multibeam echoso
 ## Volunteer Work
 **The Surfrider Foundation** - *Bogue Banks Chapter*
 
-Showing up once a month to different locations in Emerald, Isle, North Carolina to pick up trash off the beach with the community. 
+Showing up once a month at different locations in Emerald, Isle, North Carolina to pick up trash off the beach with the community. 
