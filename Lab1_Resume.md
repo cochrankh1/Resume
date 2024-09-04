@@ -41,7 +41,7 @@ This project involved bathymetric elevations collected along planned survey line
 
 **Nags Head Geophysical Survey** 
 
-This Phase II survey included side-scan sonar (SSS), marine magnetometer (MAG), and sub-bottom profiling (SBP) geophysical survey acquisition. This project entails a full survey report and geophysical assessment of the data acquired.(/sup>)
+This Phase II survey included side-scan sonar (SSS), marine magnetometer (MAG), and sub-bottom profiling (SBP) geophysical survey acquisition. This project entails a full survey report and geophysical assessment of the data acquired.
 
 **Masonboro Inlet Jetty System Hydrographic Survey**
 
@@ -73,6 +73,6 @@ This survey included a high-resolution geophysical survey using multibeam echoso
 
 
 ## Volunteer Work
-**The Surfrider Foundation** <span style="color: blue"> - *Bogue Banks Chapter* </span>
+**The Surfrider Foundation** - *Bogue Banks Chapter*
 
 Showing up once a month at different locations in Emerald, Isle, North Carolina to pick up trash off the beach with the community. 
